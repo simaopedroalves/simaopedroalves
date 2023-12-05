@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with Senior's WebDev's
 - 📫 How to reach me -- simaaoweb@gmail.com --
-- https://armazemcrisavac.netlify.app/
+
 
 <!---
 simaopedroalves/simaopedroalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
